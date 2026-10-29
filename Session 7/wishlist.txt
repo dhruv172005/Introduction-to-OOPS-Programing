@@ -1,0 +1,3 @@
+mobile 30000
+laptop 70000
+ac 50000
